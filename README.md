@@ -1,2 +1,2 @@
 # stepik_practice
-open a dir and try to start a project, Well Done!
+open a dir "23_testwork" and try to start a project, Well Done!
